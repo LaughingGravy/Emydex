@@ -1,0 +1,12 @@
+D:\Development\Emydex\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csprojResolveAssemblyReference.cache
+D:\Development\Emydex\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe.config
+D:\Development\Emydex\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe
+D:\Development\Emydex\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.pdb
+D:\Development\Emydex\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.exe
+D:\Development\Emydex\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.pdb
+D:\Development\Emydex\FarmSystem.Test\bin\Debug\FarmSystem.Test.exe.config
+D:\Development\Emydex\FarmSystem.Test\bin\Debug\FarmSystem.Test.exe
+D:\Development\Emydex\FarmSystem.Test\bin\Debug\FarmSystem.Test.pdb
+D:\Development\Emydex\FarmSystem.Test\obj\Debug\FarmSystem.Test.csprojResolveAssemblyReference.cache
+D:\Development\Emydex\FarmSystem.Test\obj\Debug\FarmSystem.Test.exe
+D:\Development\Emydex\FarmSystem.Test\obj\Debug\FarmSystem.Test.pdb
